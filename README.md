@@ -1,3 +1,31 @@
+# Deployed App Link 
+
+https://symphonious-strudel-c0b385.netlify.app/
+
+## Instructions to Run Locally
+
+### Prerequisites
+1. Install [Node.js](https://nodejs.org/) (which includes npm).
+2. Install [Git](https://git-scm.com/) for cloning the repository.
+
+### Steps to Run:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/avanipatel03/financial-data-filter-app.git
+
+# Navigate into the project directory:
+cd your-repository-name
+# Install the project dependencies:
+npm install
+# Run the app locally:
+npm start
+# Open your browser and visit:
+http://localhost:3000
+
+
+# #############################################################
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
