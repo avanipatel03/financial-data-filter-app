@@ -2,6 +2,9 @@
 
 https://symphonious-strudel-c0b385.netlify.app/
 
+
+- React App to fetch Data Using API
+
 ## Instructions to Run Locally
 
 ### Prerequisites
